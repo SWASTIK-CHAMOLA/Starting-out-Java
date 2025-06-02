@@ -29,7 +29,12 @@ public class variables_in_java {
             System.out.println("It is not raining(if false)");
         }
 
+
+        String Name = "SWASTIK";
+        System.out.println("Hello "+Name+" Welcome to Java");
+
     }
+
 
 
 }
