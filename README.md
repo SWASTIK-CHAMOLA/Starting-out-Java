@@ -1,2 +1,3 @@
 # Starting-out-Java
-FOR self learning of Java
+
+- **FOR self learning of Java**
